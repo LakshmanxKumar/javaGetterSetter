@@ -4,7 +4,7 @@ A Python code for generating getter-setter methods of Java.
 Just copy and paste the variable names with their datatype 
 <br>
 <br>
-eg.
+example.
 ```
 String data;
 char[] letters;
