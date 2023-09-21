@@ -14,6 +14,7 @@ MyClass obj;
 <br>
 Result:
 <br>
+
 ```
 void setData(String data) {this.data=data;}
 void setLetters(char[] letters) {this.letters=letters;}
