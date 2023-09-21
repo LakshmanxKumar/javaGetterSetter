@@ -10,7 +10,7 @@ eg.
 <br>
 
 
-`String data;<br>char[] letters;<br> static double const;<br> MyClass obj;`
+String data;<br>char[] letters;<br> static double const;<br> MyClass obj;
 <br>
 <br>
 Result:
