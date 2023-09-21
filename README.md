@@ -13,7 +13,8 @@ String data;<br>char[] letters;<br> static double const;<br> MyClass obj;
 <br>
 Result:
 <br>
-```- - - - - - - - - - - - - - -
+```
+- - - - - - - - - - - - - - -
 void setData(String data) {this.data=data;}
 void setLetters(char[] letters) {this.letters=letters;}
 void setConst(double const) {this.const=const;}
