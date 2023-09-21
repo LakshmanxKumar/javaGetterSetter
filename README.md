@@ -5,11 +5,12 @@ Just copy and paste the variable names with their datatype
 <br>
 <br>
 eg.
-<br>
-
-
-String data;<br>char[] letters;<br> static double const;<br> MyClass obj;
-<br>
+```
+String data;
+char[] letters;
+static double const;
+MyClass obj;
+```
 <br>
 Result:
 <br>
